@@ -985,7 +985,7 @@
    
    #cbx:checked ~ .cbx {
     border-color: transparent;
-    background: #6871f1;
+    background: #a6c5d4;
     animation: jelly 0.6s ease;
    }
    
